@@ -170,8 +170,8 @@ export PDF2ZH_OPENAI_BASE_URL='https://api.openai.com/v1'
 - 双语 PDF 会改变页宽或页数，不可能与原文件保持相同页面几何尺寸。
 - PDF 数字签名在内容重写后通常会失效。
 
-## 致谢与许可说明
+## 许可证
 
-本项目通过命令行调用 PDFMathTranslate-next，不包含其源代码。PDFMathTranslate-next 采用 [AGPL-3.0](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next/blob/main/LICENSE) 许可证；使用及分发相关依赖时请遵守其许可证要求。
+本仓库中的原创代码和文档采用 [MIT License](LICENSE)。
 
-本仓库目前未单独声明许可证。
+本项目通过命令行调用 PDFMathTranslate-next，但不包含其源代码。PDFMathTranslate-next 是独立的上游项目，采用 [AGPL-3.0](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next/blob/main/LICENSE) 许可证；安装、使用或分发该依赖时，请同时遵守其许可证要求。
