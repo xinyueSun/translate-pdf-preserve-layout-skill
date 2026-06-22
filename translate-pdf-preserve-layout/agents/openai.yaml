@@ -1,0 +1,4 @@
+interface:
+  display_name: "保留版式翻译 PDF"
+  short_description: "翻译 PDF 并尽量保留原有公式、图表、目录、注释和页面版式"
+  default_prompt: "Use $translate-pdf-preserve-layout to translate this PDF into Chinese while preserving its layout."
